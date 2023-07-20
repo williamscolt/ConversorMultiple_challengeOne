@@ -41,3 +41,8 @@ Nos muestra un mensaje de error si dejamos el input vacio o ingresamos valores n
 
 Esto es un breve resúmen con fotos de lo que realiza el programa.  
 
+
+
+Ejecutable
+En esta carpeta se encuentra el archivo ejecutable del programa.
+
