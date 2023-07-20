@@ -43,6 +43,7 @@ Esto es un breve resúmen con fotos de lo que realiza el programa.
 
 
 
-Ejecutable
+Ejecutable:
+
 En esta carpeta se encuentra el archivo ejecutable del programa.
 
